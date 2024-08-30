@@ -4,10 +4,15 @@ We're building the foundation for a future where autonomous driving is not just 
 
 
 ##Install Guide
+
 1.Download Zip
+
 2.Open main.py in a python development environment
+
 3.Install required Packages Pygames and Neat
+
 4.Run
+
 5.To change Map we haven't added any button as it's only a demo, but you can change it from within the code Line 178.
 
 we made an executable but had problem pushing it. So, we're gonna add it later
